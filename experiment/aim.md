@@ -1,1 +1,1 @@
-### Aim of the experiment
+To draw projections of different Solids
