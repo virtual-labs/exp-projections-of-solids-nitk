@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the solid is positioned that its axis is perpendicular to one of the reference planes. Which of the following is false?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Axis is parallel to another reference plane",
+        "b": "Base is parallel to the reference plane",
+        "c": "Projection on the plane gives its true shape of the base",
+        "d": "Base is perpendicular to the horizontal plane"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If the solid’s axis is perpendicular to one of the reference planes then the projection of solid on to the same plane gives the true shape and size of its _______",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Lateral geometry",
+        "b": "Base",
+        "c": "Cross-section",
+        "d": "Surface"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "When the axis of solid is perpendicular to HP, the _______view should be drawn first and _______view then projected from it",
+      "answers": {
+        "a": "Front, Top",
+        "b": "Top, Side",
+        "c": "Side, Front",
+        "d": "Top, Front"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "When the axis of solid is perpendicular to VP, the ___________view should be drawn first and __________view then projected from it",
+      "answers": {
+        "a": "Front, Top",
+        "b": "Top, Side",
+        "c": "Side, Front",
+        "d": "Top, Front"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Front view and top view of which solid is same:",
+      "answers": {
+        "a": "Sphere & Cube",
+        "b": "Cube & Cuboid",
+        "c": "Cuboid & Sphere",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
