@@ -10,10 +10,10 @@
         "d": "Base is perpendicular to the horizontal plane"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). Consider if solid's axis is perpendicular to HP, the axis is parallel to VP or PP or both.",
+        "b": "The right answer is (d). Consider if solid's axis is perpendicular to VP, then the base is parallel to VP.",
+        "c": "The right answer is (d). If solid’s axis is perpendicular to HP the base is parallel to HP and projection on to the HP gives the true shape of base",
+        "d": "Correct, the right answer is (d). If solid’s axis is perpendicular to HP the base is parallel to HP and projection on to the H.P gives the true shape of base and similar to VP and PP. But here in question it is not specified that given solid’s axis is perpendicular to VP. So this option doesn't apply for all the cases."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Surface"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). The projection of solid on the same plane will give the true shape and size of its base. The projection which is perpendicular to the reference plane will give the true shape and size of its lateral geometry. ",
+        "b": "Correct, the right answer is (b).  As in the planes, if the plane is parallel to one of the reference plane then projection of plane on to the same plane gives the true shape and size of the plane likewise the solid’s base is parallel to reference plane the projection gives the true shape of the base.",
+        "c": "The right answer is (b). If the cross section becomes the base of the solid, then the projection of solid will give true shape and size of its cross section.",
+        "d": "The right answer is (b). The projection of solid on to the same plane gives the true shape and size of its base surface. But this option is not specific on which surface."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -44,10 +44,10 @@
         "d": "Top, Front"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). If the axis of solid is perpendicular to VP, then the Front view should be drawn first and Top view then projected from it",
+        "b": "The right answer is (d). When the axis of solid is perpendicular to HP, it is indirectly saying that the base is parallel to the horizontal plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions. The HP projections(top view) and VP projections(front view) are primary. Side view can be projected to Profile plane.",
+        "c": "The right answer is (d). When the axis of solid is perpendicular to PP, it is indirectly saying that the base is parallel to the profile plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions.",
+        "d": "Correct, the right answer is (d). When the axis of solid is perpendicular to HP, it is indirectly saying that the base is parallel to the horizontal plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -61,10 +61,10 @@
         "d": "Top, Front"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). When the axis of solid is perpendicular to V.P it is indirectly saying that the base is parallel to the vertical plane so the projection on to it gives true shape of base and then we can project and find the other dimensions.",
+        "b": "The right answer is (a). When the axis of solid is perpendicular to HP, it is indirectly saying that the base is parallel to the horizontal plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions. The HP projections(top view) and VP projections(front view) are primary. Side view can be projected to Profile plane.",
+        "c": "The right answer is (a). When the axis of solid is perpendicular to PP, it is indirectly saying that the base is parallel to the profile plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions.",
+        "d": "The right answer is (a). When the axis of solid is perpendicular to HP, it is indirectly saying that the base is parallel to the horizontal plane so the projection on to it gives true shape of the base and then we can project and find the other dimensions."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -78,10 +78,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). The Front and top view of sphere is circle and for cube is Square.",
+        "b": "The right answer is (a). The Front and top view of cube is square and for cuboid, the front ans top view may or may not be same depending upon the orientation of the base with respect to any reference planes(HP,PP and VP).",
+        "c": "The right answer is (a). The front ans top view of cuboid may or may not be same depending upon the orientation of the base with respect to any reference planes(HP,PP and VP) and for sphere, the front and top view are same(sphere).",
+        "d": "The right answer is (a). The Front and top view of sphere is circle and for cube is Square."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
