@@ -1,30 +1,21 @@
-**PROCEDURE**
+### Procedure
 
-1).  Click on **“Projection of Lines”** the following window will open, with top view already drawn.
-Click on **the NEXT** button to proceed.
+<div style="text-align:left">
+  Click on the Objective icon <img src="images/objecticon.png" alt="Alt text" style="height:80px; width:80px;">  to view the objective of the simulation. 
+
+   ![Alt text](images/objectscreen.png)
+   
+  Click on the Apparatus icon <img src="images/apparatus-icon.png" alt="Alt text" style="height:80px; width:80px;">  to check the tools required for this simulation.
+
+   ![Alt text](images/appratus_screen.png)
+
+  Click on the Solution icon <img src="images/solutions-icon.png" alt="Alt text" style="height:80px; width:80px;"> to proceed with further simulation steps.
+
+   ![Alt text](images/solution_screen.png)
+
+  Evaluate and choose the correct answer to proceed with further steps, click on the next button <img src="images/nextButton-icon.png" alt="Alt text" style="height:80px; width:80px;">
 
 
-**![](./images/image6.png)**  
+  After performing the experiment, click on the Reset button <img src="images/resetButton-icon.png" alt="Alt text" style="height:80px; width:80px;"> to restart the experiment.
 
-
-2). Clicking on 'a', will continue the simulation to the next step, displaying the front view.  
-
-
-![](./images/image3.png)
-
-3). Similarly, by clicking c' the inclined view will appear, in this case it is zero degrees to HP and 45 degrees to VP. The inclined view on a grid sheet is obtained using drawing tools like a compass, a divider and a protractor.  
-In the right-hand corner, a Reset button** ![](./images/image2.png)
-**gets active here.**
-
-
-![](./images/image7.png)
-
-4). Finally, after following all the steps, we reach the final
-projection.
-
-![](./images/image4.jpg)
-
-5). In between any step , if the Reset button
-![](./images/image2.png) gets clicked, the whole board resets to the first step.
-
-![](./images/image3.png)
+</div>
