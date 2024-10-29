@@ -70,11 +70,11 @@
       "difficulty": "advanced"
     },
     {
-      "question": "Front view and top view of which solid is same:",
+      "question": "Among the following which has the same front view and top view",
       "answers": {
-        "a": "Sphere & Cube",
-        "b": "Cube & Cuboid",
-        "c": "Cuboid & Sphere",
+        "a": "Sphere",
+        "b": "Frustrum",
+        "c": "Cuboid",
         "d": "None of these"
       },
       "explanations": {
