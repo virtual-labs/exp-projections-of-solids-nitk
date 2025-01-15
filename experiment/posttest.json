@@ -2,37 +2,84 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The front view, side view, and top view of the regular square pyramid standing on the horizontal plane base on a horizontal plane.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Square, Triangle & Triangle",
+        "b": "Square, Triangle & Triangle",
+        "c": "Triangle, Triangle & Square",
+        "d": "Triangle, Square & Triangle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (c). Given a square pyramid made to stand on horizontal plane on its base, in which position the pyramid may place like this the front view and side gives triangle in particular isosceles triangle, as pyramid given is regular one and top view gives square.",
+        "b": "The right answer is (c).  Given a square pyramid made to stand on horizontal plane on its base, in which position the pyramid may place like this the front view and side gives triangle in particular isosceles triangle, as pyramid given is regular one and top view gives square.",
+        "c": "Correct, the right answer is (c).  Given a square pyramid made to stand on horizontal plane on its base, in which position the pyramid may place like this the front view and side gives triangle in particular isosceles triangle, as pyramid given is regular one and top view gives square.",
+        "d": "The right answer is (c).  Given a square pyramid made to stand on horizontal plane on its base, in which position the pyramid may place like this the front view and side gives triangle in particular isosceles triangle, as pyramid given is regular one and top view gives square."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Hexagon pyramid is placed in such a way its axis is perpendicular to HP and one edge AB parallels to VP and then next this turns about its axis so the base AB is now making some angle with VP. The top view of the previous and later one will be having the same shape.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "false"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct, the right answer is (a). When the pyramid is rotated about its axis, the spatial orientation of the base changes, but since the rotation is about the axis (which is perpendicular to HP), the top view (projection on HP) remains unaffected. The base (AB) will still appear as a hexagon in the top view, regardless of its angle with VP.",
+        "b": "The right answer is (a). When the pyramid is rotated about its axis, the spatial orientation of the base changes, but since the rotation is about the axis (which is perpendicular to HP), the top view (projection on HP) remains unaffected. The base (AB) will still appear as a hexagon in the top view, regardless of its angle with VP."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A triangular pyramid is placed such that its axis is perpendicular to VP and one of its base’s edge is parallel to HP the front view and top view will be _______",
+      "answers": {
+        "a": "Triangle due slanting side, Triangle of base",
+        "b": "Triangle of the base, Triangle due to slanting side",
+        "c": "Triangle of Base, Rhombus",
+        "d": "Rhombus, Triangle of Base"
+      },
+      "explanations": {
+        "a": "The right answer is (b). If the pyramid's axis is perpendicular to HP, It's top view is triangle of the base and if one of its edge is parallel to VP, its front view will be a tringle.",
+        "b": "Correct, the right answer is (b). A triangular pyramid has 3 edges on 4 sides. So all the shape of the views will be triangle. Since the pyramid's axis is perpendicular to VP, It's front view is triangle of the base and as one of its edge is parallel to HP, its top view will be a tringle.",
+        "c": "The right answer is (b). If the triangular pyramid axis is oriented at 45 deg with respect HP and it's edge is parallel to VP, then it's top view can be a rhombus.",
+        "d": "The right answer is (b). If the triangular pyramid axis is oriented at 45 deg with respect VP and it's edge is parallel to HP, then it's front view can be a rhombus."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": " cylinder is first placed such that its axis is perpendicular to VP and next this is tilted such that its axis is making some acute angle with VP . The top view for the previous and later one will be _______",
+      "answers": {
+        "a": "Circle, Rectangle with circular ends",
+        "b": "Circle, Rectangle",
+        "c": "Rectangle, Rectangle",
+        "d": "Rectangle with circular ends, Circle"
+      },
+      "explanations": {
+        "a": "The right answer is (c). The front view of a over-encapsulated cylinder will be circle and the top view will be a rectangle with circular ends if it's axis is perpendicular to VP.",
+        "b": "The right answer is (c). The front view of a cylinder will be circle and the top view will be a rectangle if it's axis is perpendicular to VP.",
+        "c": "Correct, the right answer is (c). In first case, the top view will be a rectangle perpendicular to VP and in second case, the top view will be a rectangle tilted to an acute angle with respect to VP.",
+        "d": "The right answer is (c). The top view of a over-encapsulated cylinder will be circle and the front view will be a rectangle with circular ends if it's axis is perpendicular to HP."
       },
       "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following solid have one of the views as square and the other as a rectangle?",
+      "answers": {
+        "a": "Cube",
+        "b": "Cuboid",
+        "c": "Cone",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "The right answer is (b). A cube has square in any views.",
+        "b": "Correct, the right answer is (b). A cuboid can have one of its view as square and another view as rectangle if it's 2 opposite faces are square and the remaining adjacent 4 sides are rectangle.",
+        "c": "The right answer is (b). A cone has one of its views as circle and other view as triangle.",
+        "d": "The right answer is (b). A cuboid can have one of its view as square and another view as rectangle if it's 2 opposite faces are square and the remaining adjacent 4 sides are rectangle."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
